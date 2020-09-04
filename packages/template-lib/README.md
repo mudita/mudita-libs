@@ -19,7 +19,13 @@ npm install @appnroll/template-lib
 yarn add @appnroll/template-lib
 ```
 ## Usage
+### JS
 ```js
-const fn = require("@appnroll/template-lib")
-fn(["A", "A", "B"]) // -> ["A", "B"]
+const fn = require("@appnroll/template-lib").default
+console.log("fn: ", fn(["A", "A", "B"])) // -> ["A", "B"]
+```
+### TS
+```ts
+import fn from "@appnroll/template-lib"
+console.log("fn: ", fn(["A", "A", "B"])) // -> ["A", "B"]
 ```
