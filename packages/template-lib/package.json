@@ -10,6 +10,7 @@
     "access": "public"
   },
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "test": "jest"
   }
 }
