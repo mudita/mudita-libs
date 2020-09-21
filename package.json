@@ -27,13 +27,15 @@
   "scripts": {
     "format": "prettier --write 'packages/**/*.{ts,tsx,js,jsx,json,md}'",
     "bootstrap": "lerna bootstrap --hoist",
-    "lint": "tslint --project .",
+    "lint": "eslint 'packages/**/*.{ts,tsx}'",
     "test": "lerna run test",
     "build": "lerna run build",
     "prepublish": "npm run build",
     "publish": "lerna publish"
   },
   "devDependencies": {
+    "@appnroll/app-function-component": "^1.0.2",
+    "@appnroll/eslint-config": "^1.0.6",
     "@types/jest": "^26.0.13",
     "husky": "^4.2.5",
     "jest": "^26.4.2",
@@ -42,9 +44,9 @@
     "prettier": "^2.0.5",
     "ts-jest": "^26.3.0",
     "ts-node": "^9.0.0",
-    "tslint": "^6.1.3",
-    "tslint-config-prettier": "^1.18.0",
-    "tslint-plugin-prettier": "^2.3.0",
     "typescript": "^4.0.2"
+  },
+  "dependencies": {
+    "react": "^16.13.1"
   }
 }
