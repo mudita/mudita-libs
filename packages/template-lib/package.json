@@ -1,0 +1,25 @@
+{
+  "name": "@appnroll/template-lib",
+  "version": "1.1.4",
+  "description": "Template lib",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "@appnroll",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/",
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Appnroll/appnroll-libs/tree/add-template-lib/packages/template-lib.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Appnroll/appnroll-libs/issues"
+  },
+  "homepage": "https://github.com/Appnroll/appnroll-libs/tree/add-template-lib/packages/template-lib#readme",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  }
+}
