@@ -27,13 +27,15 @@
   "scripts": {
     "format": "prettier --write 'packages/**/*.{ts,tsx,js,jsx,json,md}'",
     "bootstrap": "lerna bootstrap --hoist",
-    "lint": "eslint 'packages/**/*.{ts,tsx}'",
+    "lint": "lerna run lint",
     "test": "lerna run test",
     "build": "lerna run build",
     "prepublish": "npm run build",
-    "publish": "lerna publish"
+    "publish": "lerna publish",
+    "lint:fix": "eslint 'packages/**/*.{ts,tsx}'"
   },
   "devDependencies": {
+    "@appnroll/eslint-config": "^1.0.6",
     "@types/jest": "^26.0.13",
     "husky": "^4.2.5",
     "jest": "^26.4.2",
