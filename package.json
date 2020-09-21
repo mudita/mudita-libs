@@ -34,8 +34,6 @@
     "publish": "lerna publish"
   },
   "devDependencies": {
-    "@appnroll/app-function-component": "^1.0.2",
-    "@appnroll/eslint-config": "^1.0.6",
     "@types/jest": "^26.0.13",
     "husky": "^4.2.5",
     "jest": "^26.4.2",
