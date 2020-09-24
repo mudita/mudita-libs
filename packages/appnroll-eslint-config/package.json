@@ -8,7 +8,6 @@
     "url": "git@github.com:Appnroll/appnroll-eslint-config.git"
   },
   "scripts": {
-    "precommit": "lint-staged",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint --ext .js"
   },

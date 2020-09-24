@@ -6,7 +6,6 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
-    "precommit": "lint-staged",
     "prepublish": "npm run build",
     "lint": "eslint --ext .ts src"
   },
