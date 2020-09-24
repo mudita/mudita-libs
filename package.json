@@ -31,8 +31,7 @@
     "test": "lerna run test",
     "build": "lerna run build",
     "prepublish": "npm run build",
-    "publish": "lerna publish",
-    "lint:all": "eslint 'packages/**/*.{ts,tsx}'"
+    "publish": "lerna publish"
   },
   "devDependencies": {
     "@appnroll/eslint-config": "^1.0.6",
