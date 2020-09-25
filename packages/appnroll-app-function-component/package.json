@@ -1,0 +1,26 @@
+{
+  "name": "@appnroll/app-function-component",
+  "version": "1.0.2",
+  "description": "React function component with some addons.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build",
+    "lint": "eslint --ext .ts src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Appnroll/appnroll-app-function-component.git"
+  },
+  "author": "@appnroll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Appnroll/appnroll-app-function-component/issues"
+  },
+  "homepage": "https://github.com/Appnroll/appnroll-app-function-component#readme",
+  "devDependencies": {
+    "@types/react": "^16.9.35",
+    "typescript": "^3.9.3"
+  }
+}
