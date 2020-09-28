@@ -1,6 +1,6 @@
 {
   "name": "@appnroll/app-function-component",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "React function component with some addons.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
