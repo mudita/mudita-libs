@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Appnroll/appnroll-libs/tree/master/packages/appnroll-eslint-config.git"
+    "url": "https://github.com/Appnroll/appnroll-libs/tree/master/packages/appnroll-eslint-config"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
