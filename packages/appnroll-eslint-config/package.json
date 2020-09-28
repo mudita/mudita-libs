@@ -5,12 +5,13 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Appnroll/appnroll-eslint-config.git"
+    "url": "git+https://github.com/Appnroll/appnroll-libs/tree/master/packages/appnroll-eslint-config.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint --ext .js"
   },
+  "homepage": "https://github.com/Appnroll/appnroll-libs/tree/master/packages/appnroll-eslint-config#readme",
   "author": "appnroll",
   "license": "MIT",
   "dependencies": {

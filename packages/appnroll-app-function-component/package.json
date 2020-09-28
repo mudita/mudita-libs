@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Appnroll/appnroll-app-function-component.git"
+    "url": "git+https://github.com/Appnroll/appnroll-libs/tree/master/packages/appnroll-app-function-component.git"
   },
   "author": "@appnroll",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Appnroll/appnroll-app-function-component/issues"
+    "url": "https://github.com/Appnroll/appnroll-libs/issues"
   },
-  "homepage": "https://github.com/Appnroll/appnroll-app-function-component#readme",
+  "homepage": "https://github.com/Appnroll/appnroll-libs/tree/master/packages/appnroll-app-function-component#readme",
   "devDependencies": {
     "@types/react": "^16.9.35",
     "typescript": "^3.9.3"
