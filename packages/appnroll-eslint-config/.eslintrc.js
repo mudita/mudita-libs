@@ -30,7 +30,7 @@ module.exports = {
   rules: {
     "react/display-name": "off",
     "react/prop-types": "off",
-    "react/jsx-boolean-value": "off",
+    "react/jsx-boolean-value": "error",
     "@typescript-eslint/no-var-requires": "off",
   },
   settings: {
