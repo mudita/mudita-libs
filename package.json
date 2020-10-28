@@ -1,6 +1,6 @@
 {
   "name": "root",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "App'n'roll libs",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
