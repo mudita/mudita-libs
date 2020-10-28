@@ -1,5 +1,5 @@
-import { FunctionComponent as ReactFunctionComponent } from "react"
+import { FunctionComponent } from "react"
 
-export type FunctionComponent<P = {}> = ReactFunctionComponent<
+export type AppFunctionComponent<P = {}> = FunctionComponent<
   Readonly<P & { className?: string }>
 >
