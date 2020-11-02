@@ -6,7 +6,7 @@
 <h1 align="center">
   Appnroll eslint config 
 </h1>
-Eslint config of Appnroll.
+Eslint config of Appnroll
 
 ## Install
 
