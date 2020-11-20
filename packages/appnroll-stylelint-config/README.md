@@ -4,14 +4,14 @@
   </a>
 </p>
 <h1 align="center">
-  Appnroll eslint config 
+  Appnroll stylelint config 
 </h1>
-Eslint config of Appnroll
+Stylelint config of Appnroll
 
 ## Install
 
 ```
-npm install @appnroll/eslint-config --save-dev
+npm install @appnroll/stylelint-config --save-dev
 # Or
-yarn add @appnroll/eslint-config --dev
+yarn add @appnroll/stylelint-config --dev
 ```

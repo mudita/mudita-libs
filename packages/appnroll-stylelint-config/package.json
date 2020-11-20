@@ -1,14 +1,19 @@
 {
-  "name": "appnroll-stylelint-config",
+  "name": "@appnroll/stylelint-config",
   "version": "1.0.0",
-  "description": "<p align=\"center\">   <a href=\"https://appnroll.com\">     <img alt=\"App'n'roll\" src=\"https://appnroll.com/img/appnroll-logotype.svg\" width=\"160\" />   </a> </p> <h1 align=\"center\">   Appnroll eslint config  </h1> Eslint config of Appnroll",
+  "description": "",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Appnroll/appnroll-libs/tree/master/packages/appnroll-stylelint-config"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint --ext .js"
   },
-  "author": "",
-  "license": "ISC",
+  "homepage": "https://github.com/Appnroll/appnroll-libs/tree/master/packages/appnroll-stylelint-config#readme",
+  "author": "appnroll",
+  "license": "MIT",
   "devDependencies": {
     "stylelint": "^13.8.0",
     "stylelint-config-recommended": "^3.0.0",
