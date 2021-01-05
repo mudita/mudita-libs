@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://appnroll.com">
+  <a href="https://mudita.com">
     <img alt="App'n'roll" src="https://appnroll.com/img/appnroll-logotype.svg" width="160" />
   </a>
 </p>
@@ -12,9 +12,9 @@ React function component with some addons.
 ## Install
 
 ```
-npm install @appnroll/app-function-component --save-dev
+npm install @mudita/app-function-component --save-dev
 
 # Or
 
-yarn add @appnroll/app-function-component --dev
+yarn add @mudita/app-function-component --dev
 ```

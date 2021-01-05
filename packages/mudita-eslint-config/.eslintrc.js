@@ -32,7 +32,7 @@ module.exports = {
     "react/prop-types": "off",
     "react/jsx-boolean-value": "error",
     "@typescript-eslint/no-var-requires": "off",
-    "curly": "error",
+    curly: "error",
   },
   settings: {
     react: {
