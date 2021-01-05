@@ -19,6 +19,9 @@
     "url": "https://github.com/mudita/mudita-libs/issues"
   },
   "homepage": "https://github.com/mudita/mudita-libs/tree/master/packages/mudita-app-function-component#readme",
+  "dependencies": {
+    "react": "17.0.1"
+  },
   "devDependencies": {
     "@types/react": "^16.9.35",
     "typescript": "^3.9.3"
