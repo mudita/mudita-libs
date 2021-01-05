@@ -13,7 +13,7 @@
     "libs",
     "monorepo"
   ],
-  "author": "@mudita",
+  "author": "mudita",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mudita/mudita-libs/issues"
@@ -34,7 +34,7 @@
     "publish": "lerna publish"
   },
   "devDependencies": {
-    "@appnroll/eslint-config": "^1.0.6",
+    "@mudita/eslint-config": "^1.0.6",
     "@types/jest": "^26.0.13",
     "husky": "^4.2.5",
     "jest": "^26.4.2",

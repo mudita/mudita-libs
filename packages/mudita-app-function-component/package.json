@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mudita/mudita-libs/tree/master/packages/appnroll-app-function-component"
+    "url": "https://github.com/mudita/mudita-libs/tree/master/packages/mudita-app-function-component"
   },
-  "author": "@mudita",
+  "author": "mudita",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mudita/mudita-libs/issues"

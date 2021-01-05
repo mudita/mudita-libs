@@ -1,18 +1,18 @@
 {
-  "name": "@appnroll/eslint-config",
+  "name": "@mudita/eslint-config",
   "version": "1.0.11",
   "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Appnroll/appnroll-libs/tree/master/packages/appnroll-eslint-config"
+    "url": "https://github.com/mudita/mudita-libs/tree/master/packages/mudita-eslint-config"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint --ext .js"
   },
-  "homepage": "https://github.com/Appnroll/appnroll-libs/tree/master/packages/appnroll-eslint-config#readme",
-  "author": "appnroll",
+  "homepage": "https://github.com/mudita/mudita-libs/tree/master/packages/mudita-eslint-config#readme",
+  "author": "mudita",
   "license": "MIT",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^3.2.0",
