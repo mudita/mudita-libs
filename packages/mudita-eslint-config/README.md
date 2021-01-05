@@ -1,17 +1,17 @@
 <p align="center">
-  <a href="https://appnroll.com">
-    <img alt="App'n'roll" src="https://appnroll.com/img/appnroll-logotype.svg" width="160" />
+  <a href="https://mudita.com">
+    <img alt="App'n'roll" src="../../mudita-logo.svg" width="160" />
   </a>
 </p>
 <h1 align="center">
-  Appnroll eslint config 
+  Mudita eslint config 
 </h1>
-Eslint config of Appnroll
+Eslint config of Mudita
 
 ## Install
 
 ```
-npm install @appnroll/eslint-config --save-dev
+npm install @mudita/eslint-config --save-dev
 # Or
-yarn add @appnroll/eslint-config --dev
+yarn add @mudita/eslint-config --dev
 ```

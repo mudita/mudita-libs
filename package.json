@@ -1,24 +1,24 @@
 {
   "name": "root",
-  "version": "1.0.1",
-  "description": "App'n'roll libs",
+  "version": "1.0.2",
+  "description": "Mudita libs",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Appnroll/appnroll-libs"
+    "url": "git+https://github.com/mudita/mudita-libs"
   },
   "keywords": [
     "libs",
     "monorepo"
   ],
-  "author": "@appnroll",
+  "author": "@mudita",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Appnroll/appnroll-libs/issues"
+    "url": "https://github.com/mudita/mudita-libs/issues"
   },
-  "homepage": "https://github.com/Appnroll/appnroll-libs#readme",
+  "homepage": "https://github.com/mudita/mudita-libs#readme",
   "private": true,
   "engines": {
     "node": "12.18.3",
