@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://mudita.com">
-    <img alt="App'n'roll" src="../../mudita-logo.svg" width="160" />
+    <img alt="Mudita" src="../../mudita-logo.svg" width="160" />
   </a>
 </p>
 <h1 align="center">
