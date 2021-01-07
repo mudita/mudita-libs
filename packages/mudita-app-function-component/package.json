@@ -1,5 +1,5 @@
 {
-  "name": "@appnroll/app-function-component",
+  "name": "@mudita/app-function-component",
   "version": "1.0.7",
   "description": "React function component with some addons.",
   "main": "dist/index.js",
@@ -11,14 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Appnroll/appnroll-libs/tree/master/packages/appnroll-app-function-component"
+    "url": "https://github.com/mudita/mudita-libs/tree/master/packages/mudita-app-function-component"
   },
-  "author": "@appnroll",
+  "author": "mudita",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Appnroll/appnroll-libs/issues"
+    "url": "https://github.com/mudita/mudita-libs/issues"
   },
-  "homepage": "https://github.com/Appnroll/appnroll-libs/tree/master/packages/appnroll-app-function-component#readme",
+  "homepage": "https://github.com/mudita/mudita-libs/tree/master/packages/mudita-app-function-component#readme",
+  "dependencies": {
+    "react": "17.0.1"
+  },
   "devDependencies": {
     "@types/react": "^16.9.35",
     "typescript": "^3.9.3"

@@ -1,5 +1,5 @@
 {
     "*.{js,json,css,md,ts,tsx}": ["prettier --write", "git add"],
-    'packages/appnroll-app-function-component/src/*.ts': ['eslint --fix', 'git add'],
-    'packages/appnroll-eslint-config/**/*.js': ['eslint --fix', 'git add'],
+    'packages/mudita-app-function-component/src/*.ts': ['eslint --fix', 'git add'],
+    'packages/mudita-eslint-config/**/*.js': ['eslint --fix', 'git add'],
 }
