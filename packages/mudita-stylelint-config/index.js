@@ -5,7 +5,7 @@ module.exports = {
     "stylelint-config-styled-components",
   ],
   rules: {
-    "unit-whitelist": [
+    "unit-allowed-list": [
       ["%", "em", "rem", "vw", "vh", "s", "ms", "deg", "vmin", "vmax", "fr"],
       {
         ignoreProperties: { px: ["media-feature-name"] },
