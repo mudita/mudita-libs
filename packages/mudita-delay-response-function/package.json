@@ -1,0 +1,41 @@
+{
+  "name": "@mudita/delay-response-function",
+  "version": "1.0.0",
+  "description": "Delays async function to be resolved not earlier than after given time.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build",
+    "lint": "eslint --ext .ts src",
+    "test": "jest --config jest.config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mudita/mudita-libs/tree/master/packages/mudita-delay-response-function"
+  },
+  "keywords": [
+    "delay",
+    "response",
+    "async",
+    "mudita"
+  ],
+  "author": "mudita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mudita/mudita-libs/issues"
+  },
+  "homepage": "https://github.com/mudita/mudita-libs/tree/master/packages/mudita-delay-response-function#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.13",
+    "codecov": "^3.7.2",
+    "jest": "^26.4.2",
+    "prettier": "^2.1.2",
+    "ts-jest": "^26.3.0",
+    "typescript": "^4.0.2"
+  },
+  "files": [
+    "dist/**/*"
+  ],
+  "dependencies": {}
+}
