@@ -12,11 +12,11 @@ An async function that delays other async function to be resolved not earlier th
 ## Install
 
 ```
-npm install @appnroll/delay-response
+npm install @mudita/delay-response-function
 
 # or
 
-yarn add @appnroll/delay-response
+yarn add @mudita/delay-response-function
 ```
 
 ## Usage
@@ -28,8 +28,8 @@ await delayResponse(somePromise, timeInMsToResolve)
 ## Example
 
 ```TS
-const fakePromise = async () =>
-  await new Promise((resolve) => {
+const fakePromise = () =>
+  return new Promise((resolve) => {
     setTimeout(() => {
       resolve("resolved")
     }, 125)
