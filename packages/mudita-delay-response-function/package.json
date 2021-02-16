@@ -1,6 +1,6 @@
 {
   "name": "@mudita/delay-response-function",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Delays async function to be resolved not earlier than after given time.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
