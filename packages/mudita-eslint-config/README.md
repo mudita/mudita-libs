@@ -6,7 +6,7 @@
 <h1 align="center">
   Mudita eslint config 
 </h1>
-Eslint config of Mudita
+Eslint config used in Mudita projects
 
 ## Install
 
